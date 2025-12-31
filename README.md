@@ -83,12 +83,14 @@ This project demonstrates:
 sweet-shop/
 │
 ├── public/
+│
 ├── src/
+│
 ├── screenshots/
-│ ├── Home.png
-│ ├── SignIn.png
-│ ├── Adminlogin.png
-│ ├── Admindashboard.png
+│   ├── Home.png
+│   ├── SignIn.png
+│   ├── Adminlogin.png
+│   └── Admindashboard.png
 │
 ├── README.md
 ├── DEPLOYMENT.md
