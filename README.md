@@ -77,21 +77,18 @@ This project demonstrates:
 ### Admin Dashboard
 <img src="screenshots/Admindashboard.png" alt="Admin Dashboard" height="450"/>
 
----
 
-## Project Structure
+│## Project Structure
+
+```text
 sweet-shop/
-│
 ├── public/
-│
 ├── src/
-│
 ├── screenshots/
 │   ├── Home.png
 │   ├── SignIn.png
 │   ├── Adminlogin.png
 │   └── Admindashboard.png
-│
 ├── README.md
 ├── DEPLOYMENT.md
 ├── package.json
@@ -100,8 +97,9 @@ sweet-shop/
 ---
 
 ## Future Enhancements
--Online payment integration
--Order tracking system
--Product management (CRUD)
--Analytics dashboard
--Email notifications
+
+- Online payment integration
+- Order tracking system
+- Product management (CRUD operations)
+- Analytics dashboard
+- Email notifications
