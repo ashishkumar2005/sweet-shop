@@ -1,36 +1,105 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Sweet Shop Management System
+A modern **full-stack Sweet Shop Management System** designed for online sweet ordering with secure authentication and admin management.  
+This project is built as a **college final-year project** and is suitable for **portfolio and interview presentation**.
 
-## Getting Started
+---
 
-First, run the development server:
+## Project Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+The **Sweet Shop Management System** enables customers to browse sweets, register or log in, and access the application securely.  
+Admins can log in through a dedicated admin panel and manage shop operations using a clean dashboard.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This project demonstrates:
+- Real-world **full-stack development**
+- **Authentication & role-based access**
+- Modern UI/UX design
+- Production-level deployment
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Tech Stack
 
-## Learn More
+### Frontend
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
 
-To learn more about Next.js, take a look at the following resources:
+### Backend / Services
+- API-based architecture
+- Authentication & authorization
+- Environment-based configuration
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Deployment
+- Vercel
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## Live Demo
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+🔗 https://sweet-shop-green-two.vercel.app
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## Features
+
+### User Features
+- User Sign Up & Login
+- Secure authentication
+- Responsive design
+- Clean UI for browsing
+
+### Admin Features
+- Admin login
+- Admin dashboard
+- Role-based access control
+- Secure admin authentication
+
+---
+
+## Project Screenshots
+
+### Home Page
+<img src="screenshots/Home.png" alt="Home Page" height="400"/>
+
+---
+
+### User Sign In
+<img src="screenshots/SignIn.png" alt="User Sign In" height="400"/>
+
+---
+
+### Admin Login
+<img src="screenshots/Adminlogin.png" alt="Admin Login" height="400"/>
+
+---
+
+### Admin Dashboard
+<img src="screenshots/Admindashboard.png" alt="Admin Dashboard" height="450"/>
+
+---
+
+## Project Structure
+sweet-shop/
+│
+├── public/
+├── src/
+├── screenshots/
+│ ├── Home.png
+│ ├── SignIn.png
+│ ├── Adminlogin.png
+│ ├── Admindashboard.png
+│
+├── README.md
+├── DEPLOYMENT.md
+├── package.json
+└── next.config.ts
+
+---
+
+## Future Enhancements
+-Online payment integration
+-Order tracking system
+-Product management (CRUD)
+-Analytics dashboard
+-Email notifications
