@@ -83,6 +83,7 @@ This project demonstrates:
 
 │## Project Structure
 '''text
+
 sweet-shop/
 ├── public/
 ├── src/
