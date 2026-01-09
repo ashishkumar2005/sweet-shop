@@ -1,12 +1,12 @@
 # Sweet Shop Management System
-A modern **full-stack Sweet Shop Management System** designed for online sweet ordering with secure authentication and admin management.  
-This project is built as a **college final-year project** and is suitable for **portfolio and interview presentation**.
+A modern full-stack Sweet Shop Management System designed for online sweet ordering with secure authentication and admin management.  
+This project is built as a college final-year project and is suitable for portfolio and interview presentation.
 
 ---
 
 ## Project Overview
 
-The **Sweet Shop Management System** enables customers to browse sweets, register or log in, and access the application securely.  
+The Sweet Shop Management System enables customers to browse sweets, register or log in, and access the application securely.  
 Admins can log in through a dedicated admin panel and manage shop operations using a clean dashboard.
 
 This project demonstrates:
@@ -80,7 +80,6 @@ This project demonstrates:
 
 │## Project Structure
 
-```text
 sweet-shop/
 ├── public/
 ├── src/
