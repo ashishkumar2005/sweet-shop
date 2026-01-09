@@ -1,9 +1,9 @@
-# Task pdf link
+## Task PDF link
 https://drive.google.com/file/d/1Q_5G0qu8R-xBQe1HGiczu1YLHCgx8uVd/view?usp=drivesdk
 
 # Sweet Shop Management System
 A modern full-stack Sweet Shop Management System designed for online sweet ordering with secure authentication and admin management.  
-This project is built as a college final-year project and is suitable for portfolio and interview presentation.
+This project is built as a college final-year project and is suitable for a portfolio and interview presentation.
 
 ---
 
@@ -60,6 +60,12 @@ This project demonstrates:
 
 ---
 
+## My AI Usage
+- ChatGPT
+- Gemini
+
+---
+
 ## Project Screenshots
 
 ### Home Page
@@ -80,10 +86,8 @@ This project demonstrates:
 ### Admin Dashboard
 <img src="screenshots/Admindashboard.png" alt="Admin Dashboard" height="450"/>
 
-
-│## Project Structure
-'''text
-
+## Project Structure
+```text
 sweet-shop/
 ├── public/
 ├── src/
